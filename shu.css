@@ -53,14 +53,20 @@ a{
     padding: 10px;
 }
 
-.title .sign_in{
+.title .sign_up{
     color: #ea6f5a;
     border-bottom: 3px solid #ea6f5a;
 }
 
-.title .sign_up{
+.title .sign_in{
     color: #969696;
 }
+
+.title .sign_in:hover{
+    color: #ea6f5a;
+    border-bottom: 3px solid #ea6f5a;
+}
+
 
 .title b{
     font-weight: bold;
