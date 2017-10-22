@@ -129,6 +129,11 @@ input{
     width: 150px;
     float: right;
 }
+#message .question a{
+    color: #888;
+    font-size: 20px;
+}
+
 
 #message .sure{
     border-radius: 50px;
@@ -139,7 +144,7 @@ input{
     margin-top:20px;
     border-radius: 5px;
 }
-
+#
 .sign_in_sure{
     background-color: #3194d0;
 }
